@@ -52,7 +52,7 @@ __Confusion Matrix__
 ![Confusion_Matrix](reference_images/confusion_matrix.png)
 
 __APP__ 
-![App](reference_images/CAPTURE.PNG)
+![App](reference_images/Capture.PNG)
 
 ### Reference
 
