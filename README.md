@@ -35,9 +35,9 @@ The authors were able to sort out some common issues that come up with studying 
 ### Results
 
 Below shows the graph of __accuracy__ and __losses__ against __epochs__ for both training and testing data.
-![Training and Validation loss with Epochs](data/reference_images/loss_without_scheduler.png)
+![Training and Validation loss with Epochs](reference_images/loss_without_scheduler.png)
 
-![Training and Validation Accuracy with Epochs](data/reference_images/Accuracy_without_scheduler.png)
+![Training and Validation Accuracy with Epochs](reference_images/Accuracy_without_scheduler.png)
 
 Some __prediction results__ are shown below
 
@@ -52,5 +52,22 @@ __Confusion Matrix__
 ![Confusion_Matrix](reference_images/confusion_matrix.png)
 
 __APP__ 
-![App](reference_images/confusion_matrix.png)
+![App](reference_images/CAPTURE.PNG)
+
+### Reference
+
+[EuroSAT: A Novel Dataset and Deep Learning
+Benchmark for Land Use and Land Cover
+Classification](https://arxiv.org/abs/1709.00029)
+
+
+
+@inproceedings{helber2018introducing,
+  title={Introducing EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification},
+  author={Helber, Patrick and Bischke, Benjamin and Dengel, Andreas and Borth, Damian},
+  booktitle={IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={204--207},
+  year={2018},
+  organization={IEEE}
+}
 
