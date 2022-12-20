@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>bg.png</file>
+    <file>Arc_de_Triomphe.jpg</file>
+  </qresource>
+</RCC>
